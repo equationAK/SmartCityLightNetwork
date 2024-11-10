@@ -1,0 +1,19 @@
+{
+  "poleName": ["pole_name", "String"],
+  "mq7": ["carbonMono", "float"],
+  "mq135": ["AirQuality", "float"],
+  "uv": ["uv", "float"],
+  "temperature": ["temperature", "float"],
+  "humidity": ["humidity", "float"],
+  "pressure": ["pressure", "float"],
+  "ldr": ["ldr", "float"],
+  "noiseDB": ["noiseDB", "float"],
+  "flame": ["flameAlarm", "int"],
+  "gasAlarm": ["gasAlarm", "int"],
+  "liquidLevel": ["rainHeight", "float"],
+  "noiseLevel": ["noiseDB", "String"],
+  "LightData": ["lightActivity","int"],
+  "rainAlarm": ["rainAlarm", "int"],
+  "timestamp": ["timestampValue", "String"],
+  "floodAlarm": ["floodAlarm", "int"]
+}
